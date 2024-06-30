@@ -1,6 +1,6 @@
 ---
-title: "Buthaina"
-date: 2019-06-03T23:29:21+05:30
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
 draft: false
 tags:
   - Doula
