@@ -7,7 +7,7 @@ tags:
   - Resources
   - Bedside Manner
 image: /images/reviews/human2.jpg
-description: "I am a description"
+description: "Testemonial from Angela about Doula Emilie Young"
 toc:
 ---
 
