@@ -1,0 +1,16 @@
+<div class="container py-4">
+    <div class="row justify-content-center">
+        <div class="col-md-4 text-center">
+            &copy; {{ now.Format "2006"}} {{ .Site.Params.copyright }} {{ .Site.Params.terms.copyright | default "All Rights Reserved" }}
+            {{/*  <div class="text-muted">
+                <small>
+                    {{ with .Site.Params.terms }}
+                        <a href="{{ .privacy.url | default "/privacy-policy" }}" class="text-muted">{{ .privacy.label | default "Privacy Policy" }}</a>
+                        <span class="mx-1">|</span>
+                        <a href="{{ .terms.url | default "/terms-of-service" }}" class="text-muted">{{ .terms.label | default "Terms of Service" }}</a>
+                    {{ end }}
+                </small>
+            </div>  */}}
+        </div>
+    </div>
+</div>
