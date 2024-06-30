@@ -1,15 +1,25 @@
 ---
 title: "Buthaina"
-date: 2020-01-03T23:29:21+05:30
+date: 2019-06-03T23:29:21+05:30
 draft: false
 tags:
-  - Postpartum Doula
+  - Birth Doula
   - Bedside Manner
 image: /images/reviews/human3.jpg
 description: "Testemonial from Buthaina about Doula Emilie Young"
 toc:
 ---
 
-I had the pleasure of working as co-doula with Emilie. I highly recommend her as either a birth or postpartum doula. She is both light-hearted and wise. She brings such a warmth to her work! Emilie shared excellent resources in the prenatal appointments and helped the client make an easy-to-read birth plan, which all the nurses loved!
+Emilie came into my life when I was very depressed and in need of any kind of support.
 
-During the birth, Emilie provided continuous encouragement. She suggested different positions and provided gentle comfort measures. She is very knowledgeable and explained the hospital processes in a clear way. She did a wonderful job validating the client's emotions at all times. I am so glad I had the opportunity to work with her! Any family who gets to work with her is a lucky family!
+Having had to deliver my first baby alone in the US, and away from my husband and family, through a c-section too, I had to go through a lot on my own which drained me physically and emotionally. I was in pain and depressed the whole time, and cried everyday.
+
+Emilie's presence in my life changed everything. I didn't know well what a doula can do to help, but what I know now is Emilie just made it all better for me..
+
+Emilie's warmth, beautiful soul, genuine love and care were more than I could ever ask for. She's amazing with babies! Her genuine love towards babies is simply mesmerizing and my baby loved her a lot..
+
+Having Emilie there to talk to, hold my baby while I nap, shower, or do anything in the house made a lot of difference.. she was so helpful and would do anything to help.. I started feeling better from her first visit and it kept getting even better until I traveled back to my country.
+
+Emilie was there till the last second helping me pack and making me feel ready to travel alone..
+
+I would forever appreciate her role in my postpartum period, and would want her to be my doula next time I get pregnant. She's a person whose presence, soul, support can make all the difference any person, especially a mother, can ever need..
