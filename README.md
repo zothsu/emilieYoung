@@ -1,6 +1,6 @@
 # README
 
-Welcome to our static website!
+Professional portfolio for Emilie Young, Birth Doula. Serving the greater Portland, Oregon area since 2018.
 
 ## Overview
 
