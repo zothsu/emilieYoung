@@ -19,9 +19,9 @@
                     <div class="col-auto h-100">
                         {{ if .Site.Params.hero.button.enable }}
                         <a href="{{ .Site.Params.hero.button.url }}" class="btn" {{ cond .Site.Params.hero.button.download "download" "" }}
-			  {{ if .Site.Params.hero.button.newPage | default true }}
-                          target="_blank"
-                          {{ end }}>
+                        {{ if .Site.Params.hero.button.newPage | default true }}
+                        target="_blank"
+                        {{ end }}>
                             {{ .Site.Params.hero.button.name }}
                         </a>
                         {{ end }}
@@ -41,9 +41,9 @@
                     </div>
                 </div>
             </div>
-            <div class="col=auto px-0 h-100">
-                <img src="{{ .Site.Params.hero.image2 }}">
-            </div>
+        </div>
+        <div class="text-center py-4">
+            <img src="{{ .Site.Params.hero.image2 }}" height="400em">
         </div>
     </div>
     {{ if .Site.Params.hero.bottomImage.enable | default true }}
