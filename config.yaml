@@ -255,7 +255,7 @@ params:
     items:
       - title: Postpartum Care
         content: Postparum content for the content thingy. I've got a lovely box of coconuts all standing in a row.
-        image: /images/projects/birth3.jpg
+        image: images/projects/birth3.jpg
         featured:
           name: Demo
           link: https://hugo-profile.netlify.app
@@ -273,7 +273,7 @@ params:
 
       - title: Birth Care
         content: This is some stuff summarizing birth care and what is offered.
-        image: /images/projects/birth1.jpg
+        image: images/projects/birth1.jpg
         featured:
           name: Demo
           link: https://django-converter.herokuapp.com
