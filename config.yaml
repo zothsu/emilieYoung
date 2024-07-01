@@ -59,7 +59,7 @@ Menus:
 
 params:
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "fav.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -129,8 +129,8 @@ params:
     title: "Emilie."
     subtitle: "I help bring little people into the world"
     content: "Creating calm, comfortable births together."
-    image: /images/me.png
-    image2: /logo.svg
+    image: images/me.png
+    image2: logo.svg
     bottomImage:
       enable: true
     roundImage: true # Make hero image circular | default false
@@ -154,7 +154,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "images/me.png"
     content: |-
       Hi there! I'm Emilie, a doula based in the beautiful city of Portland, Oregon. Ever since I attended my first birth, I knew this was my calling. I believe every birthing person deserves to feel empowered, respected, and deeply supported throughout their journey.
       
@@ -286,7 +286,7 @@ params:
 
       - title: Birth Care
         content: A comprehensive Hugo template for birth-related content and resources.
-        image: /images/projects/birth2.jpg
+        image: images/projects/birth2.jpg
         featured:
           name: Demo
           link: https://birth-care-template.netlify.app
