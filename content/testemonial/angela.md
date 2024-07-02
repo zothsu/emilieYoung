@@ -6,7 +6,7 @@ tags:
   - Co-worker
   - Resources
   - Bedside Manner
-image: /images/reviews/human2.jpg
+image: images/reviews/human2.jpg
 description: "Testemonial from Angela about Doula Emilie Young"
 toc:
 ---

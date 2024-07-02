@@ -5,7 +5,7 @@ draft: false
 tags:
   - Doula
   - Bedside Manner
-image: /images/reviews/human2.jpg
+image: images/reviews/human2.jpg
 description: "Testemonial from Madison about Doula Emilie Young"
 toc:
 ---

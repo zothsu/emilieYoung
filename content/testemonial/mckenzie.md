@@ -6,7 +6,7 @@ tags:
   - Doula
   - Bedside Manner
   - Long labor
-image: /images/reviews/human3.jpg
+image: images/reviews/human3.jpg
 description: "Testemonial from McKenzie about Doula Emilie Young"
 toc:
 ---

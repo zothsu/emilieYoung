@@ -5,7 +5,7 @@ draft: false
 tags:
   - Postpartum Doula
   - Bedside Manner
-image: /images/reviews/human3.jpg
+image: images/reviews/human3.jpg
 description: "Testemonial from Bailey about Doula Emilie Young"
 toc:
 ---

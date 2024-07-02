@@ -6,7 +6,7 @@ tags:
   - Hospital Birth
   - NICU
   - Twins
-image: /images/reviews/human1.jpg
+image: images/reviews/human1.jpg
 description: "Testemonial from Andi about Doula Emilie Young"
 toc:
 ---
