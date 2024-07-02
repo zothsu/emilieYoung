@@ -68,7 +68,7 @@
           </aside>
           {{end}}
 
-          {{ if .Params.socialShare | default .Site.Params.singlePages.socialShare | default true }}
+          {{ if .Params.socialShare | default .Site.Params.singlePages.socialShare | default false }}
           <aside class="social">
             <h5>{{ .Site.Params.terms.social | default "Social" }}</h5>
             <div class="social-content">
