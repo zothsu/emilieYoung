@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Long Labor on Doula, Emilie Young</title>
+    <title>Long labor on Doula, Emilie Young</title>
     <link>https://zothsu.github.io/emilieYoung/tags/long-labor/</link>
-    <description>Recent content in Long Labor on Doula, Emilie Young</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Long labor on Doula, Emilie Young</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Jun 2018 15:56:16 -0700</lastBuildDate>
-    <atom:link href="https://zothsu.github.io/emilieYoung/tags/long-labor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Jun 2018 15:56:16 -0700</lastBuildDate><atom:link href="https://zothsu.github.io/emilieYoung/tags/long-labor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>McKenzie</title>
       <link>https://zothsu.github.io/emilieYoung/testemonial/mckenzie/</link>
       <pubDate>Sat, 30 Jun 2018 15:56:16 -0700</pubDate>
+      
       <guid>https://zothsu.github.io/emilieYoung/testemonial/mckenzie/</guid>
       <description>I was Emilie&amp;rsquo;s first birth mama. It was my first time giving birth. She owned the doula title with gentle, yet assertive guidence. Her ability to assess my needs as I was internally processing my labor was astounding. It was a festival birth of 3-4 days of labor and 3 1/2 hrs of pushing and she was there by my side every step. She led my team and advocated for me with grace and diligence, all the while being mindful of my ideals.</description>
     </item>
+    
   </channel>
 </rss>
