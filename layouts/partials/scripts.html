@@ -50,7 +50,7 @@
 {{- end }}
 
 {{ if not (.Site.Params.navbar.disableSearch | default false) }}
-    <script src="{{ .Site.Params.staticPath }}/js/search.js"></script>
+    <script src="{{ .Site.Params.staticPath }}js/search.js"></script>
 {{ end }}
 
 
@@ -61,16 +61,16 @@
 
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
-      tex2jax: {
+    tex2jax: {
         inlineMath: [['\\(','\\)']],
         displayMath: [['$$','$$'], ['\[','\]']],
         processEscapes: true,
         processEnvironments: true,
         skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
         TeX: { equationNumbers: { autoNumber: "AMS" },
-             extensions: ["AMSmath.js", "AMSsymbols.js"] }
-      }
-    });
+            extensions: ["AMSmath.js", "AMSsymbols.js"] }
+    }
+});
 </script>
 {{ end }}
 
@@ -86,7 +86,7 @@
 {{ end }}
 
 {{ if (.Site.Params.contact.formspree.enable | default false) }}
-<script src="{{ .Site.Params.staticPath }}/js/contact.js"></script>
+<script src="{{ .Site.Params.staticPath }}js/contact.js"></script>
 {{ end }}
 
 {{ if (.Site.Params.customScripts | default false) }}
