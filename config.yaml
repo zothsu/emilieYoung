@@ -37,7 +37,7 @@ Menus:
     - identifier: testemonial
       name: Human Words about Emilie
       title: Human words
-      url: /testemonial
+      url: "https://doulamatch.net/profile/20792/emilie-young"
       weight: 1
     #Dropdown menu
     # - identifier: dropdown
@@ -105,7 +105,6 @@ params:
   # If you want to customize the menu, you can change it here
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
-    # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
     brandName: "Emilie" # Brand name for the brand | default is the title variable
     disableSearch: true
@@ -303,6 +302,20 @@ params:
   achievements:
     enable: true
     title: "Human words about Emilie"
+    items:
+      - title: McKenzie
+        content: Developed a theme and getting 1K+ downloads per month.
+        url: "https://doulamatch.net/profile/20792/emilie-young"
+        image: "https://static.vecteezy.com/system/resources/previews/005/012/089/original/holding-hand-hand-drawn-free-vector.jpg"
+      - title: name
+        content: Developed a theme and getting 1K+ downloads per month.
+        url: "https://doulamatch.net/profile/20792/emilie-young"
+        image: "https://static.vecteezy.com/system/resources/previews/005/012/089/original/holding-hand-hand-drawn-free-vector.jpg"
+      - title: name
+        content: Developed a theme and getting 1K+ downloads per month.
+        url: "https://doulamatch.net/profile/20792/emilie-young"
+        image: "https://static.vecteezy.com/system/resources/previews/005/012/089/original/holding-hand-hand-drawn-free-vector.jpg"
+        
 
   #Contact
   contact:
