@@ -12,7 +12,7 @@ toc:
 
 Emilie was essential to my birth.
 
-Labor is hard and It was one of the biggest workouts of my life. My husband was my mental support and Emilie was my labor foundation. She kept me hydrated, not waiting for me to ask for water but offering me water with a straw every so often. She tracked down my protein shake and even managed to find me some fruit to snack on when we had forgotten our own snacks. She never left my side without first making sure that someone else was there to take care of me.
+Labor is hard and it was one of the biggest workouts of my life. My husband was my mental support and Emilie was my labor foundation. She kept me hydrated, not waiting for me to ask for water but offering me water with a straw every so often. She tracked down my protein shake and even managed to find me some fruit to snack on when we had forgotten our own snacks. She never left my side without first making sure that someone else was there to take care of me.
 
 There was a lot of time when my husband and I were laboring together and working hard. There wasn’t anything for her to do at those times, but she sat there with us actively waiting for when she was needed. I have never felt that kind of unconditional support in my life.
 
