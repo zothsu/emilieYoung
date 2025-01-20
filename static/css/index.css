@@ -1,3 +1,23 @@
+#hero1 {
+    background-color: #fff;
+}
+
+#hero2 {
+    background-color: #f10000;
+}
+
+#hero3 {
+    background-color: #2bff00;
+}
+
+#hero4 {
+    background-color: #ff00e1;
+}
+
+#hero5 {
+    background-color: #285b06;
+}
+
 /* Animation */
 @keyframes fade-in {
     0% {
