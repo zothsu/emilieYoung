@@ -61,19 +61,19 @@ Start Hugo development server
 hugo server -D
 ```
 
-Open your browser and go to http://localhost:1313/
+Open your browser and go to `http://localhost:1313/`
 
 ### Deployment on Hostinger
 
 This project is deployed using Hostinger. To deploy updates or make changes, follow these steps:
 
-1. Build the Static Files. This will generate the static site in the `public/` directory.
+Build the Static Files. This will generate the static site in the `public/` directory.
 
 ```sh
 hugo --minify
 ```
 
-2. Upload to Hostinger
+Upload to Hostinger
     1. Log in to your Hostinger account.
     2. Navigate to the File Manager or use FTP to upload files.
     3. Replace the existing files in the public directory with the new ones.
@@ -88,7 +88,6 @@ If you would like to contribute, please open an issue or submit a pull request.
 ## Thanks
 
 [RichardLitt](https://github.com/RichardLitt) for creating the Standard README
-
 
 ## License
 
