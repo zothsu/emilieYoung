@@ -5,6 +5,7 @@
 This is the professional portfolio for Emilie Young, a Birth Doula serving the greater Portland, Oregon area since 2018. The site is built with Hugo to ensure speed, security, and easy maintenance.
 
 ### Features
+
 - Clean, responsive design
 - Testimonials carousel
 - Secure and optimized hosting
@@ -13,41 +14,54 @@ This is the professional portfolio for Emilie Young, a Birth Doula serving the g
 ## TODO
 
 ### Testimonials
+
 - Add details for testimonials in `hugo.yaml`
 - Implement a film strip-style carousel for testimonials, allowing users to cycle through manually and automatically advance every 7 seconds
 - Upload client photos to Cloudinary (login with GitHub)
 
 ### Services
+
 - Add a dedicated services page
 - List and describe available doula services
 - Include a pricing section (if applicable)
 - Add a contact form for service inquiries
 
 ### Bugs
+
 - The main photo is not displaying correctly
 
 ## Setup & Development
 
 ### Prerequisites
+
 Ensure you have the following installed before getting started:
+
 - [Hugo](https://gohugo.io/getting-started/installing/)
 - [Go](https://go.dev/doc/install)
 - [Node.js](https://nodejs.org/) (if using npm-based dependencies)
 - A [Cloudinary](https://cloudinary.com/) account for image hosting
 
 ### Running Locally
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/emilie-young-portfolio.git
-2. Navigate to project directory:
-    ```sh
-    cd emilieYoung
-    ```
-3. Start Hugo development server
-    ```sh
-    hugo server -D
-    ```
-4. Open your browser and go to http://localhost:1313/
+
+Clone the repository:
+
+```sh
+git clone https://github.com/YOUR_GITHUB_USERNAME/emilie-young-portfolio.git
+```
+
+Navigate to project directory:
+
+```sh
+cd emilieYoung
+```
+
+Start Hugo development server
+
+```sh
+hugo server -D
+```
+
+Open your browser and go to http://localhost:1313/
 
 ### Deployment on Hostinger
 
