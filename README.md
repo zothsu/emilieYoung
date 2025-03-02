@@ -71,6 +71,11 @@ hugo --minify
 
 If you would like to contribute, please open an issue or submit a pull request.
 
+## Thanks
+
+[RichardLitt](https://github.com/RichardLitt) for creating the Standard README
+
+
 ## License
 
-This project is licensed under the MIT License.
+Licensed under [MIT](LICENSE)
