@@ -160,44 +160,71 @@ params:
       As your doula, I bring my whole heart to the birthing room. I'm here to advocate fiercely for your needs and wishes, ensuring that you have a voice in every decision. My compassionate approach means I'll be by your side, offering comfort, encouragement, and hands-on support when you need it most.
 
       Birth is a profound and unique experience, and my goal is to help make it as positive and empowering as possible for you and your family. I can't wait to walk this incredible path with you, bringing calm, confidence, and unwavering support to your birth experience.
-    skills:
-      enable: true
-      title: "Here are a few things I can help you with:"
-      items:
-        - "[Birth & Postpartum Doula](#prenatal-support)"
-        - "[Childbirth Education](#childbirth-education)"
-        - "[Breastfeeding Support](#breastfeeding-support)"
-        - "[Labor Support](#labor-support)"
-        - "[Postpartum Care](#postpartum-care)"
-        - "[Emotional Support](#emotional-support)"
-        - "[Newborn Care](#newborn-care)"
-        - "[Household Assistance](#household-assistance)"
-        - "[Sibling Support](#sibling-support)"
-        - "[Lactation Consultation](#lactation-consultation)"
 
-        
+
+    services:
+      birth_doula_support:
+        title: "Birth Doula Support"
+        insurance: "Accepts OHP"
+        package:
+          price: "$1500"
+          includes:
+            - "Minimum of two prenatal visits (in-person or Zoom)"
+            - "Prenatal support throughout pregnancy"
+            - "As-needed resources and referrals to community support"
+            - "On-call 24/7 from 38 weeks on (earlier for multiples and special circumstances)"
+            - "On-site support from the beginning of labor until pre-agreed departure time"
+            - "Back-up doula support in case of emergencies"
+            - "Two 4-hour postpartum visits or one overnight visit"
+
+      postpartum_care_night_nanny:
+        title: "Postpartum Care & Night Nanny"
+        private_pay_contribution: "A portion of your retainer will go into the Postpartum Access Fund."
+        description: |
+          Postpartum care is booked in two or four-week blocks. 
+          - Day shifts are **4 or 6 hours**  
+          - Night shifts are **between 8 & 10 hours**  
+          Every family's postpartum care plan is unique. 
+
+          Some of the services I have provided in the past include:
+        services_provided:
+          - "Reading babies' cues to figure out solutions to common issues"
+          - "Supporting feeding—however that looks for you"
+          - "Caring for siblings while you bond with your baby"
+          - "Meal prep"
+          - "Light housekeeping, laundry, and dishes"
+          - "Grocery shopping"
+          - "As-needed resources and referrals to community support"
+
+      pricing:
+        day_support: "$40/hr"
+        overnight_support:
+          weekday: "$45/hr (Sun-Thu)"
+          weekend: "$50/hr (Fri & Sat)"
+        night_nanny: "$40/hr (6-18 months)"
 
   # Experience
   experience:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
-      - job: "Certified Doula"
-        company: "Portland Birth Center"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "Birth Doula Support"
+        company: "Accepts OHP"
+        companyUrl: "-"
+        date: "-"
         featuredLink:
-          enable: true
+          enable: false
           name: "Learn more"
           url: "https://example.com"
-        content: "I am currently working as a certified doula at [Portland Birth Center](https://example.com) in Portland, Oregon. I provide comprehensive support to birthing individuals and their families throughout the entire birth process."
+        content: "
+        I am currently working as a certified doula at [Portland Birth Center](https://example.com) in Portland, Oregon. I provide comprehensive support to birthing individuals and their families throughout the entire birth process."
 
       - job: "Lactation Consultant"
         company: "Babies R Us Hospital"
         companyUrl: "https://example.com"
         date: "Sep 2020 - Dec 2021"
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
         info:
           enable: true
@@ -223,8 +250,8 @@ params:
 
   # Education
   education:
-    enable: true
-    title: "Birth Related Education for Doulas"
+    enable: false
+    title: "Services"
     index: false
     items:
       - title: "Certified Doula Training"
@@ -255,7 +282,7 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     title: "Skills"
     items:
       - title: Postpartum Care
@@ -306,7 +333,7 @@ params:
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     title: "Human words about Emilie"
     items:
       - title: Andi
