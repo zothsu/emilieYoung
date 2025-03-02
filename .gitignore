@@ -1,0 +1,19 @@
+# Hugo build artifacts
+public/
+resources/
+hugo_stats.json
+
+# Temporary files
+*.log
+*.bak
+*.swp
+*.swo
+.DS_Store
+
+# Node dependencies (if using npm/yarn for assets)
+node_modules/
+
+# Cache and system files
+.cache/
+.idea/
+.vscode/
