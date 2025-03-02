@@ -1,0 +1,46 @@
+{{ if site.Params.services }}
+<section id="services">
+  <div class="container">
+    <div class="section-title">
+      <h2>Our Services</h2>
+    </div>
+
+    {{ range site.Params.services }}
+    <div class="service-section">
+      <h3>{{ .title }}</h3>
+      
+      {{ if .insurance }}
+      <p><strong>Insurance:</strong> {{ .insurance }}</p>
+      {{ end }}
+
+      {{ if .private_pay_contribution }}
+      <p><em>{{ .private_pay_contribution }}</em></p>
+      {{ end }}
+
+      {{ if .package.includes }}
+      <h4>Package Includes:</h4>
+      <ul>
+        {{ range .package.includes }}
+        <li>{{ . }}</li>
+        {{ end }}
+      </ul>
+      {{ end }}
+
+      {{ if .description }}
+      <p>{{ .description | markdownify }}</p>
+      {{ end }}
+
+      {{ if .services_provided }}
+      <h4>Services Provided:</h4>
+      <ul>
+        {{ range .services_provided }}
+        <li>{{ . }}</li>
+        {{ end }}
+      </ul>
+      {{ end }}
+
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

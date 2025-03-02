@@ -163,6 +163,8 @@ params:
 
 
     services:
+      enable: true 
+      title: "Services"
       birth_doula_support:
         title: "Birth Doula Support"
         insurance: "Accepts OHP"
