@@ -67,3 +67,10 @@ hugo --minify
     4. Open your website in a browser to ensure the changes are live.
         If caching issues occur, clear the cache from Hostinger’s control panel.
 
+## Contributing
+
+If you would like to contribute, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
