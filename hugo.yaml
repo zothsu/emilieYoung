@@ -128,7 +128,7 @@ params:
     title: "Emilie."
     subtitle: "I help bring little people into the world"
     content: "Creating calm, comfortable births together."
-    image: images/me.png
+    image: 
     image2: logo.svg
     bottomImage:
       enable: true
@@ -164,12 +164,18 @@ params:
       enable: true
       title: "Here are a few things I can help you with:"
       items:
-        - "Prenatal Care"
-        - "Labor Support"
-        - "Breastfeeding Support"
-        - "Postpartum Care"
-        - "Childbirth Education"
-        - "Doula Services"
+        - "[Birth & Postpartum Doula](#prenatal-support)"
+        - "[Childbirth Education](#childbirth-education)"
+        - "[Breastfeeding Support](#breastfeeding-support)"
+        - "[Labor Support](#labor-support)"
+        - "[Postpartum Care](#postpartum-care)"
+        - "[Emotional Support](#emotional-support)"
+        - "[Newborn Care](#newborn-care)"
+        - "[Household Assistance](#household-assistance)"
+        - "[Sibling Support](#sibling-support)"
+        - "[Lactation Consultation](#lactation-consultation)"
+
+        
 
   # Experience
   experience:
