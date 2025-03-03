@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bailey on Doula, Emilie Young</title>
-    <link>http://localhost:64236/testemonial/bailey/</link>
+    <link>http://localhost:1313/testemonial/bailey/</link>
     <description>Recent content in Bailey on Doula, Emilie Young</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:64236/testemonial/bailey/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/testemonial/bailey/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
