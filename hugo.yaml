@@ -162,41 +162,41 @@ params:
       Birth is a profound and unique experience, and my goal is to help make it as positive and empowering as possible for you and your family. I can't wait to walk this incredible path with you, bringing calm, confidence, and unwavering support to your birth experience.
 
 
-    services:
-      enable: true 
-      title: "Services"
-      birth_doula_support:
-        title: "Birth Doula Support"
-        insurance: "Accepts OHP"
-        package:
-          price: "$1500"
-          includes:
-            - "Minimum of two prenatal visits (in-person or Zoom)"
-            - "Prenatal support throughout pregnancy"
-            - "As-needed resources and referrals to community support"
-            - "On-call 24/7 from 38 weeks on (earlier for multiples and special circumstances)"
-            - "On-site support from the beginning of labor until pre-agreed departure time"
-            - "Back-up doula support in case of emergencies"
-            - "Two 4-hour postpartum visits or one overnight visit"
-
-      postpartum_care_night_nanny:
-        title: "Postpartum Care & Night Nanny"
-        private_pay_contribution: "A portion of your retainer will go into the Postpartum Access Fund."
-        description: |
-          Postpartum care is booked in two or four-week blocks. 
-          - Day shifts are **4 or 6 hours**  
-          - Night shifts are **between 8 & 10 hours**  
-          Every family's postpartum care plan is unique. 
-
-          Some of the services I have provided in the past include:
-        services_provided:
-          - "Reading babies' cues to figure out solutions to common issues"
-          - "Supporting feeding—however that looks for you"
-          - "Caring for siblings while you bond with your baby"
-          - "Meal prep"
-          - "Light housekeeping, laundry, and dishes"
-          - "Grocery shopping"
+  services:
+    enable: true 
+    title: "Services"
+    birth_doula_support:
+      title: "Birth Doula Support"
+      insurance: "Accepts OHP"
+      package:
+        price: "$1500"
+        includes:
+          - "Minimum of two prenatal visits (in-person or Zoom)"
+          - "Prenatal support throughout pregnancy"
           - "As-needed resources and referrals to community support"
+          - "On-call 24/7 from 38 weeks on (earlier for multiples and special circumstances)"
+          - "On-site support from the beginning of labor until pre-agreed departure time"
+          - "Back-up doula support in case of emergencies"
+          - "Two 4-hour postpartum visits or one overnight visit"
+
+    postpartum_care_night_nanny:
+      title: "Postpartum Care & Night Nanny"
+      private_pay_contribution: "A portion of your retainer will go into the Postpartum Access Fund."
+      description: |
+        Postpartum care is booked in two or four-week blocks. 
+        - Day shifts are **4 or 6 hours**  
+        - Night shifts are **between 8 & 10 hours**  
+        Every family's postpartum care plan is unique. 
+
+        Some of the services I have provided in the past include:
+        services_provided:
+        - "Reading babies' cues to figure out solutions to common issues"
+        - "Supporting feeding—however that looks for you"
+        - "Caring for siblings while you bond with your baby"
+        - "Meal prep"
+        - "Light housekeeping, laundry, and dishes"
+        - "Grocery shopping"
+        - "As-needed resources and referrals to community support"
 
       pricing:
         day_support: "$40/hr"
