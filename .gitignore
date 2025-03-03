@@ -1,5 +1,4 @@
 # Hugo build artifacts
-public/
 resources/
 hugo_stats.json
 
