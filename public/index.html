@@ -135,7 +135,7 @@ Doula, Emilie Young
             break;
         default:
             if (mediaQuery) {
-                document.body.classList.add('dark');
+                document.body.classList.add('light');
             }
             break;
     }
@@ -151,7 +151,7 @@ Doula, Emilie Young
         let currentScrollPos = window.pageYOffset;
         let resetHeaderStyle = false;
         let showNavBarOnScrollUp =  true ;
-        let showNavBar = showNavBarOnScrollUp ? prevScrollPos > currentScrollPos : currentScrollPos > 0;
+        let showNavBar = showNavBarOnScrollUp ? prevScrollPos > currentScrollPos : currentScrollPos > 2;
         if (showNavBar) {
             profileHeaderElem.classList.add("showHeaderOnTop");
         } else {
@@ -313,7 +313,6 @@ Doula, Emilie Young
             <img src="logo.svg" class="img-fluid">
         </div>
     </div>
-    
     <div class="hero-bottom-svg d-md-block d-lg-block d-none">
         <svg xmlns="http://www.w3.org/2000/svg" width="201" height="201" viewBox="0 0 201 201">
             <g id="Group_1168" data-name="Group 1168" transform="translate(-384 -1392)">
@@ -576,27 +575,21 @@ Doula, Emilie Young
             </g>
         </svg>
     </div>
-    
 </section>
 
 <section id="about" class="py-0 py-sm-5">
     <div class="container bg-transparent">
         <h3 class="text-center bg-transparent">About Me</h3>
         <div class="bg-transparent row justify-content-center px-3 py-5">
-            
             <div class="col-sm-12 col-md-8 col-lg-4 mb-5 mb-sm-0 mb-md-5 mb-lg-0 d-none d-sm-none d-md-block">
                 <div class="image d-flex px-5">
-                    <img src="images/me.png" class="img-thumbnail mx-auto rounded-circle" alt="">
+                    <img src="/static/images/me.png" class="img-thumbnail mx-auto rounded-circle" alt="">
                 </div>
-            </div>
-            
+            </div> 
             <div class="col-sm-12 col-md-12 col-lg-8 content">
                 <p>Hi there! I&rsquo;m Emilie, a doula based in the beautiful city of Portland, Oregon. Ever since I attended my first birth, I knew this was my calling. I believe every birthing person deserves to feel empowered, respected, and deeply supported throughout their journey.</p>
-<p>As your doula, I bring my whole heart to the birthing room. I&rsquo;m here to advocate fiercely for your needs and wishes, ensuring that you have a voice in every decision. My compassionate approach means I&rsquo;ll be by your side, offering comfort, encouragement, and hands-on support when you need it most.</p>
-<p>Birth is a profound and unique experience, and my goal is to help make it as positive and empowering as possible for you and your family. I can&rsquo;t wait to walk this incredible path with you, bringing calm, confidence, and unwavering support to your birth experience.</p>
-
-
-                
+                <p>As your doula, I bring my whole heart to the birthing room. I&rsquo;m here to advocate fiercely for your needs and wishes, ensuring that you have a voice in every decision. My compassionate approach means I&rsquo;ll be by your side, offering comfort, encouragement, and hands-on support when you need it most.</p>
+                <p>Birth is a profound and unique experience, and my goal is to help make it as positive and empowering as possible for you and your family. I can&rsquo;t wait to walk this incredible path with you, bringing calm, confidence, and unwavering support to your birth experience.</p>                
             </div>
         </div>
     </div>
@@ -629,14 +622,20 @@ Doula, Emilie Young
                         <h6 class="card-subtitle mb-2 text-muted">A portion of our private pay clients retainer will go into the Postpartum Access Fund</h6>     
                         <div class="card-text">
                             <p>Postpartum care is booked in two or four week blocks. Day shifts are 4 or 6 hours & night shifts are between 8 & 10 hours</p>
+                            <p>Your post partum care plan will lookk unique because every family is unique. Some of the services I have provided in the past include:</p>
                             <ul>
-                                <li>Includes minimum of two pre-natal visits (in-person)</li>
-                                <li>Prenatal support throughout pregnancy</li>
-                                <li>24/7 on-call support starting at 38 weeks (earlier for multiples and special circumstances)</li>
-                                <li>On site support from the begining of labor until pre-agreed departure time</li>
-                                <li>Two 4 hour postpartum visits or one overnight</li>
+                                <li>Reading babies cues to figure out solutions to common issues</li>
+                                <li>Supporting feeding - however that looks</li>
+                                <li>Caring for siblings, while you bond with your baby</li>
+                                <li>Meal prep</li>
+                                <li>Light housekeeping, laundry, dishes, etc.</li>
+                                <li>Grocery shopping</li>
+                                <li>As needed resources and referrals to community support</li>
                             </ul>
-                            <p>Postpartum Package | $1,200</p>
+                            <p>Day Support | $40/hr</p>
+                            <p>Overnight Support (Sun-Thur)| $45/hr</p>
+                            <p>Overnight Support (Fri-Sat) | $50/hr</p>
+                            <p>Night Nanny (6-18 months) | $40/hr</p>
                         </div>  
                     </div>
                 </div>
